@@ -1,1 +1,2 @@
-# MP3-player-in-C-using-DSA-
+# MusicPlayer-C-DataStructures-AVLTREE
+A C++ Project based on Recursive AVL Tree implementation
